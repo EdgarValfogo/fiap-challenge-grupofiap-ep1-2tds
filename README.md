@@ -20,3 +20,4 @@ O arquivo para inicialização do Power BI está na raiz do projeto, com o nome 
 2. Em "fontes de dados no arquivo atual", verifique se os arquivos com extensão XLSX, estão apontados para os arquivos do projeto base, em dados, de acordo com a instrução de arquivos de dado acima
 3. Verifique se a conexão com o banco de dados está funcionando corretamente e apontado para o local correto, de acordo com a imagem anexa:
     ![Demonstração das fontes de dados aplicados corretamente](./tela-configuracao-de-dados.PNG)
+4. Caso alguma fonte esteja relatando erro, configure e aponte as fontes (Botão: Alterar fonte...) para os locais corretos dos arquivos excel anexos na pasta "Dados" e também a configuração do banco de dados, caso não esteja sendo utilizado o local e usuário padrão.
